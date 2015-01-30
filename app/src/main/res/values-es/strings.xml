@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoMaterialDesignDrawerMenu</string>
+    <string name="hello_world">Hola warras</string>
+    <string name="action_settings">Ajustes</string>
+
+    <!-- Drawer Menu items -->
+    <string-array name="nav_drawer_items">
+        <item>Bisicleta</item>
+        <item>Utubus</item>
+        <item>Carraco</item>
+        <item>Patera</item>
+        <item>Metro</item>
+        <item>Renfe</item>
+    </string-array>
+
+    <!-- Sliding Menu item icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_directions_bike_black_36dp</item>
+        <item>@drawable/ic_directions_bus_black_36dp</item>
+        <item>@drawable/ic_directions_car_black_36dp</item>
+        <item>@drawable/ic_directions_ferry_black_36dp</item>
+        <item>@drawable/ic_directions_subway_black_36dp</item>
+        <item>@drawable/ic_directions_train_black_36dp</item>
+    </array>
+
+    <string name="hello_blank_fragment">Hola mundo cruel</string>
+
+</resources>
